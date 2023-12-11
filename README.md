@@ -6,11 +6,11 @@ Kindly refer [Thesis](https://drive.google.com/file/d/1RpVDuD2roLN0XS5S0grBaMGsO
  
 | Mouse                               |                                     |
 | ----------------------------------- | ----------------------------------- |
-| ![](https://github.com/Bparui/NeRF-based-3D-mapping/blob/main/mouse%20(1).png) | ![](https://github.com/Bparui/NeRF-based-3D-mapping/blob/main/mouse%20(2).png) |
+| ![](https://github.com/Bparui/NeRF-based-3D-mapping/blob/main/images/mouse1.jpg) | ![](https://github.com/Bparui/NeRF-based-3D-mapping/blob/main/images/mouse2.jpg) |
 
 | Mug                                 |                                     |
 | ----------------------------------- | ----------------------------------- |
-| ![](https://github.com/Bparui/NeRF-based-3D-mapping/blob/main/mug%20(3).png) | ![](https://github.com/Bparui/NeRF-based-3D-mapping/blob/main/mug%20(2).png) |
+| ![](https://github.com/Bparui/NeRF-based-3D-mapping/blob/main/images/mug3.jpg) | ![](https://github.com/Bparui/NeRF-based-3D-mapping/blob/main/images/mug2.jpg) |
 
 | Scannet Results                     |                                     |
 | ----------------------------------- | ----------------------------------- |
